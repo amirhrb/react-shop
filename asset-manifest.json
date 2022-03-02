@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.554137bc.css",
+    "main.js": "/static/js/main.9eb724c8.js",
+    "static/media/will-rust.jpg": "/static/media/will-rust.652e5aff51a4895f86af.jpg",
+    "static/media/price-tag.svg": "/static/media/price-tag.1ed7e982f9783c4272cd0f52a331222b.svg",
+    "static/media/plus.svg": "/static/media/plus.1bde1da841c52b6d3ae399727e67003a.svg",
+    "static/media/back.svg": "/static/media/back.997a323e51b9aeb50489eb5658274c97.svg",
+    "static/media/minus.svg": "/static/media/minus.eef4f6ce4c8fd3d4af6a3a591dc834a7.svg",
+    "static/media/trash-can-solid.svg": "/static/media/trash-can-solid.10a2e97986db1c1eca54f76fa3ddf293.svg",
+    "static/media/store.svg": "/static/media/store.cf7d6af2be4dcec732e490d5593d77c3.svg",
+    "index.html": "/index.html",
+    "main.554137bc.css.map": "/static/css/main.554137bc.css.map",
+    "main.9eb724c8.js.map": "/static/js/main.9eb724c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.554137bc.css",
+    "static/js/main.9eb724c8.js"
+  ]
+}
